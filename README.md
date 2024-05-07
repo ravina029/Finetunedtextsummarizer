@@ -90,4 +90,4 @@ clone the repository: https://github.com/ravina029/TextSummarizer-finetuned-bart
 
 
 # Points of improvement: 
-Quality of summary can be improved by thraining the model for more than 1 epoch.
+Quality of summary can be improved by training the model for more than 1 epoch.
