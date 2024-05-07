@@ -1,0 +1,5 @@
+langchain==0.1.15
+huggingface_hub==0.22.2
+python-dotenv==1.0.1
+streamlit==1.33.0
+ctransformers== 0.2.27
