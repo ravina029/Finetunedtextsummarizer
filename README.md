@@ -4,11 +4,11 @@ This project involves building a web application which can generate concise and 
 
 Screenshots of some sample summaries:
 
-![Alt Text](https://github.com/ravina029/TextSummarizer-finetuned-bart-samsum/raw/main/samharry1.png)
+![Alt Text](samharry1.png)
 
-![Alt Text](https://github.com/ravina029/TextSummarizer-finetuned-bart-samsum/blob/main/samharry2.png)
+![Alt Text](samharry2.png)
 
-![Alt Text](https://github.com/ravina029/TextSummarizer-finetuned-bart-samsum/blob/main/india.png)
+![Alt Text](india.png)
 
 
 
