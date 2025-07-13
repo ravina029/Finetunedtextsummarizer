@@ -107,15 +107,15 @@ cd TextSummarizer-finetuned-bart-samsum
 
 # 🔬 Research Extensions
 
-If developed further, this project could be extended into a full research experiment:
+1. If developed further, this project could be extended into a full research experiment:
 
-Compare with flan-t5, pegasus, and longformer
+2. Compare with flan-t5, pegasus, and longformer
 
-Conduct ablation on max token length, prompt formatting, or pretraining dataset
+3. Conduct ablation on max token length, prompt formatting, or pretraining dataset
 
-Evaluate generalization on unseen dialogue datasets (e.g., MultiWOZ, DSTC)
+4. Evaluate generalization on unseen dialogue datasets (e.g., MultiWOZ, DSTC)
 
-Integrate Reinforcement Learning with ROUGE reward
+5. Integrate Reinforcement Learning with ROUGE reward
 
 # Points of improvement: 
 Quality of summary can be improved by training the model for more than 1 epoch.
