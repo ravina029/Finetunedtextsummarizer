@@ -83,18 +83,18 @@ cd TextSummarizer-finetuned-bart-samsum
       source venv/bin/activate  # or venv\Scripts\activate on Windows
       pip install -r requirements.txt
 
-2. Install the required depencies.
+3. Install the required depencies.
 
-3. Create a file named app.py and paste the code in the file summaryfinetuned.py.
+4. Create a file named app.py and paste the code in the file summaryfinetuned.py.
 
-4. Create a file named .env in the same directory as summaryfinetuned.py, 
+5. Create a file named .env in the same directory as summaryfinetuned.py, 
    Add the line HUGGINGFACEHUB_API_TOKEN=YOUR_API_TOKEN
    ,replace YOUR_API_TOKEN with your Hugging Face Hub API token. (never share your API token)
 
-5. Run the application from your terminal:
+6. Run the application from your terminal:
    streamlit run app.py
 
-6. A Streamlit web app will open in your browser. Enter text in "Enter the text you want to summarize:" field and click "Summarize".
+7. A Streamlit web app will open in your browser. Enter text in "Enter the text you want to summarize:" field and click "Summarize".
 
 7. The application will display the summarized text alongside the original input.
 
